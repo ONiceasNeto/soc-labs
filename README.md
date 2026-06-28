@@ -57,4 +57,4 @@ VirtualBox	Ambiente virtualizado isolado
 Kali Linux	Sistema operacional para labs
 ---
 Status
-Em construção. Novos laboratórios sendo adicionados conforme avanço nos estudos.
+A continuar
